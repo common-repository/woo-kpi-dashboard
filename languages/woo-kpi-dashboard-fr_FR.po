@@ -1,0 +1,1084 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: woo-kpi-dashboard\n"
+"POT-Creation-Date: 2016-10-27 18:43+0200\n"
+"PO-Revision-Date: 2016-10-27 18:44+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _e;__;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/kpi-dashboard.php:97 includes/kpi-objectives.php:85
+#: includes/kpi-objectives.php:165 includes/kpi-objectives.php:232
+msgid ""
+"To use Woo-KPI Dashboard, you need to have allow_url_fopen=on in your php."
+"ini or Curl extension installed (used by lot of Woocommerce plugins)."
+msgstr ""
+"Pour utiliser Woo-KPI Dashboard, vous devez avoir 'allow_url_fopen=on\" dans "
+"votre php.ini ou bien l'extension Curl installée (utilisée par beaucoup "
+"d'extensions Woocommerce)."
+
+#: includes/kpi-dashboard.php:103
+msgid ""
+"The <a href=\"?page=kpi-objectives\">license key</a> is invalid. <a href="
+"\"http://logg-out.com/en/contact-us/\" >Contact us</a> if you think it's an "
+"error or <a href=\"http://logg-out.com/en/\">acquire a license</a>."
+msgstr ""
+"La  <a href=\"?page=kpi-objectives\">clé de licence</a> est invalide. <a "
+"href=\"http://logg-out.com/contactez-moi/\" >Contactez-nous</a> si vous "
+"pensez que c'est une erreur ou <a href=\"http://logg-out.com/project/"
+"woocommerce-kpi-dashboard/\">acquérez une licence</a>."
+
+#: includes/kpi-dashboard.php:109
+msgid ""
+"Please <a href=\"http://logg-out.com/en/\">acquire a license</a> to unlock "
+"PRO features."
+msgstr ""
+"Merci d'<a Href=\"http://logg-out.com/project/woocommerce-kpi-dashboard/"
+"\">acquérir une licence</a> pour débloquer les fonctionnalités PRO."
+
+#: includes/kpi-dashboard.php:114
+msgid "Woocommerce KPI Dashboard Pro"
+msgstr ""
+
+#: includes/kpi-dashboard.php:115
+msgid ""
+"<br /><span style=\"font-size:0.8;font-style:italic;\">by <a href=\"http://"
+"logg-out.com\">Logg</a></span>"
+msgstr ""
+"<br /><span style=\"font-size:0.8;font-style:italic;\">par <a href=\"http://"
+"logg-out.com\">Logg</a></span>"
+
+#: includes/kpi-dashboard.php:121
+msgid "Objectives"
+msgstr "Objectifs"
+
+#: includes/kpi-dashboard.php:121
+msgid "Reality"
+msgstr "Réalité"
+
+#: includes/kpi-dashboard.php:121
+#, php-format
+msgid "for %s"
+msgstr "pour %s"
+
+#: includes/kpi-dashboard.php:123
+msgid "conversion Rate"
+msgstr "Taux de Conversion"
+
+#: includes/kpi-dashboard.php:123
+msgid "Visitors"
+msgstr "Visiteurs"
+
+#: includes/kpi-dashboard.php:123
+msgid "Average Basket"
+msgstr "Panier Moyen"
+
+#: includes/kpi-dashboard.php:123 views/other-stats.php:59
+msgid "Fidelity Rate"
+msgstr "Taux de Fidélité"
+
+#: includes/kpi-dashboard.php:139
+msgid "Complete Statistics And Tips For "
+msgstr "Statistiques Et Conseils Complets Pour "
+
+#: includes/kpi-dashboard.php:203
+msgid ""
+"Don't miss the full <a href='http://logg-out.com/en/'>pro version</a> of "
+"Woocommerce KPI Dashboard!"
+msgstr ""
+"Ne ratez pas la version complète <a href='http://logg-out.com/en/'>pro "
+"version</a> of Woocommerce KPI Dashboard!"
+
+#: includes/kpi-dashboard.php:208
+msgid "kpi-us.png"
+msgstr "kpi-fr.png"
+
+#: includes/kpi-dashboard.php:211
+msgid ""
+"Your main Key Performance Indicators of actual month - or any chosen month - "
+"displayed to identify all keypoints to handle for a profitable company."
+msgstr ""
+"Vos principaux Indicateurs Clés de Performance du mois actuel - ou de "
+"n'importe quel mois choisi - affichés pour identifier tous vos points "
+"principaux à gérer pour une entreprise profitable."
+
+#: includes/kpi-dashboard.php:215
+msgid ""
+"Woocommerce KPI Dashboard will even display tips to increase your company's "
+"incomes, depending on your own KPI !<br /><br />  <a style='font-weight:"
+"bolder;' href='http://logg-out.com/en/'>Acquire Pro Version</a>"
+msgstr ""
+"Woocommerce KPI Dashboard affichera même des conseils pour augmenter les "
+"revenus de votre entreprise, résultant de vos propres KPI è<br/><br/><a "
+"style=\"font-weight:bolder;\" Href=\"http://logg-out.com/project/woocommerce-"
+"kpi-dashboard/\">Acquérir la version PRO</a>.."
+
+#: includes/kpi-dashboard.php:220
+msgid "tips-us.jpg"
+msgstr "tips-fr.jpg"
+
+#: includes/kpi-dashboard.php:254
+msgid ""
+"You must be authenticated on Woo KPI Settings, be an admin and Woocommerce "
+"has to be installed to see the Woocommerce KPI Dashboard."
+msgstr ""
+"Vous devez être authentifié dans Woo KPI Settings, être un admin et "
+"Woocommerce doit être installé pour voir le Woocommerce KPI Dashboard."
+
+#: includes/kpi-objectives.php:65 includes/kpi-objectives.php:89
+#: includes/kpi-objectives.php:146
+msgid ""
+"There's an error to receive license validation. Please try again later or <a "
+"href=\"http://logg-out.com/en/contact-us/\" >contact us</a>."
+msgstr ""
+"Il y a une erreur pour obtenir la validation de la licence. Merci de "
+"réessayer ultérieurement ou de <a href=\"http://logg-out.com/en/contact-us/"
+"\" >Nous contacter</a>."
+
+#: includes/kpi-objectives.php:69
+msgid "License key is valid, activated and stored. Thank you!"
+msgstr "La clé de licence est valide, activée et sauvegardée. Merci !"
+
+#: includes/kpi-objectives.php:75
+msgid ""
+"The maximum number of use for this license key has been reached. Deactivate "
+"other website using it, <a href=\"http://logg-out.com/en/contact-us/\" "
+">contact us</a> or <a href=\"http://logg-out.com/en/product/woo-kpi-"
+"dashboard-pro/\">acquire a new license</a> for this website."
+msgstr ""
+"Le nombre maximum d'utilisations autorisées pour cette clé de licence a été "
+"atteint. Désactivez-la sur les autres sites l'utilisant, <a href=\"http://"
+"logg-out.com/contactez-moi/\">contactez-nous</a> ou <a href=\"http://logg-"
+"out.com/project/woocommerce-kpi-dashboard/\">acquérez une nouvelle licence</"
+"a> pour ce site web."
+
+#: includes/kpi-objectives.php:79
+msgid ""
+"This license key is invalid. <a href=\"http://logg-out.com/en/contact-us/\" "
+">Contact us</a> if it's an error or <a href=\"http://logg-out.com/en/product/"
+"woo-kpi-dashboard-pro/\">acquire a license</a>."
+msgstr ""
+"La  <a href=\"?page=kpi-objectives\">clé de licence</a> est invalide. <a "
+"href=\"http://logg-out.com/contactez-moi/\" >Contactez-nous</a> si vous "
+"pensez que c'est une erreur ou <a href=\"http://logg-out.com/project/"
+"woocommerce-kpi-dashboard/\">acquérez une licence</a>."
+
+#: includes/kpi-objectives.php:150
+msgid "License key has been unactivated. You can use it on another website."
+msgstr ""
+"La clé de licence a été désactivée. Vous pouvez l'utiliser sur un autre site."
+
+#: includes/kpi-objectives.php:155
+msgid "This license key is already inactive."
+msgstr "La clé de licence est déjà désactivée."
+
+#: includes/kpi-objectives.php:159
+msgid ""
+"This license key is invalid. <a href=\"http://logg-out.com/en/contact-us/\" "
+">Contact us</a> if you think it's an error or <a href=\"http://logg-out.com/"
+"en/product/woo-kpi-dashboard-pro/\">acquire a license</a>."
+msgstr ""
+"La  <a href=\"?page=kpi-objectives\">clé de licence</a> est invalide. <a "
+"href=\"http://logg-out.com/contactez-moi/\" >Contactez-nous</a> si vous "
+"pensez que c'est une erreur ou <a href=\"http://logg-out.com/project/"
+"woocommerce-kpi-dashboard/\">acquérez une licence</a>."
+
+#: includes/kpi-objectives.php:169
+msgid ""
+"There's an error to deactivate license. Please try again later or <a href="
+"\"http://logg-out.com/en/contact-us/\" >contact us</a>."
+msgstr ""
+"Il y a eu une erreur pour désactiver la clé de licence. Merci de réessayer "
+"ultérieurement ou <a href=\"http://logg-out.com/contactez-nous/\" >contactez-"
+"nous</a>."
+
+#: includes/kpi-objectives.php:238
+msgid ""
+"The <a href=\"?page=kpi-objectives\">license key</a> is invalid. <a href="
+"\"http://logg-out.com/en/contact-us/\" >Contact us</a> if you think it's an "
+"error or <a href=\"http://logg-out.com/en/product/woo-kpi-dashboard-pro/"
+"\">acquire a license</a>."
+msgstr ""
+"La <a href=\"?page=kpi-objectives\">clé de licence</a> est invalide. <a href="
+"\"http://logg-out.com/contactez-moi/\" >Contactez-moi</a> si vous pensez que "
+"c'est une erreur ou <a href=\"http://logg-out.com/en/product/woo-kpi-"
+"dashboard-pro/\">acquérez une licence</a>."
+
+#: includes/kpi-objectives.php:244
+msgid ""
+"Please <a href=\"http://logg-out.com/en/product/woo-kpi-dashboard-pro/"
+"\">acquire a license</a> to unlock PRO features."
+msgstr ""
+"Please <a href=\"http://logg-out.com/en/product/woo-kpi-dashboard-pro/"
+"\">acquire a license</a> to unlock PRO features."
+
+#: includes/kpi-objectives.php:251 includes/kpi-settings.php:59
+msgid "Woo-KPI Dashboard Pro"
+msgstr "Woo-KPI Dashboard Pro"
+
+#: includes/kpi-objectives.php:252
+msgid ""
+"<br /><span style=\"font-size:0.8;font-style:italic;\">Set Net Income "
+"Objectives</span>"
+msgstr ""
+"<br /><span style=\"font-size:0.8;font-style:italic;\">Fixez les Objectifs "
+"de Chiffre d'Affaire Net</span>"
+
+#: includes/kpi-objectives.php:254
+msgid "Your projected monthly incomes, tax and shipping cost not included."
+msgstr "Vos revenus mensuels prévus, hors taxes et hors frais de port."
+
+#: includes/kpi-objectives.php:264
+msgid "January"
+msgstr "Janvier"
+
+#: includes/kpi-objectives.php:268
+msgid "February"
+msgstr "Février"
+
+#: includes/kpi-objectives.php:272
+msgid "March"
+msgstr "Mars"
+
+#: includes/kpi-objectives.php:276
+msgid "April"
+msgstr "Avril"
+
+#: includes/kpi-objectives.php:280
+msgid "May"
+msgstr "Mai"
+
+#: includes/kpi-objectives.php:284
+msgid "June"
+msgstr "Juin"
+
+#: includes/kpi-objectives.php:288
+msgid "July"
+msgstr "Juillet"
+
+#: includes/kpi-objectives.php:292
+msgid "August"
+msgstr "Août"
+
+#: includes/kpi-objectives.php:296
+msgid "September"
+msgstr "Septembre"
+
+#: includes/kpi-objectives.php:300
+msgid "October"
+msgstr "Octobre"
+
+#: includes/kpi-objectives.php:304
+msgid "November"
+msgstr "Novembre"
+
+#: includes/kpi-objectives.php:308
+msgid "December"
+msgstr "Décembre"
+
+#: includes/kpi-objectives.php:320
+msgid "License Key"
+msgstr "Clé de Licence"
+
+#: includes/kpi-objectives.php:325
+msgid "Valid License"
+msgstr "Licence Valide"
+
+#: includes/kpi-objectives.php:328
+msgid "Deactivate License"
+msgstr "Désactiver la Licence"
+
+#: includes/kpi-objectives.php:333
+msgid "No Valid License"
+msgstr "Pas de Licence Valide"
+
+#: includes/kpi-objectives.php:336
+msgid "Activate License"
+msgstr "Activer la Licence"
+
+#: includes/kpi-objectives.php:348 includes/kpi-settings.php:161
+msgid "Sorry, only administrators can change this settings."
+msgstr "Désolé, seuls les administrateurs peuvent changer ces paramètres."
+
+#: includes/kpi-settings.php:5
+msgid "This plugin requires the CURL PHP extension"
+msgstr "Cette extension nécessite l'extension CURL PHP"
+
+#: includes/kpi-settings.php:10
+msgid "This plugin requires the JSON PHP extension"
+msgstr "Cette extension nécessite l'extension JSON PHP"
+
+#: includes/kpi-settings.php:15
+msgid "This plugin requires http_build_query()"
+msgstr "Cette extension nécessite http_build_query()"
+
+#: includes/kpi-settings.php:60
+msgid ""
+"<br /><span style=\"font-size:0.8;font-style:italic;\">Google Analytics "
+"Integration</span>"
+msgstr ""
+"<br /><span style=\"font-size:0.8;font-style:italic;\">Intégration de Google "
+"Analytics</span>"
+
+#: includes/kpi-settings.php:85
+msgid ""
+"Do you want to re-authenticate ? Click reset button and get your new Access "
+"code."
+msgstr ""
+"Voulez-vous vous re-authentifier ? Cliquez sur le bouton reset et récupérez "
+"votre nouveau code d'accès."
+
+#: includes/kpi-settings.php:89
+msgid "Clear Authentication"
+msgstr "Effacer authentification"
+
+#: includes/kpi-settings.php:96
+msgid "Authentication:"
+msgstr "Authentification:"
+
+#: includes/kpi-settings.php:99
+msgid "Click here to authenticate"
+msgstr "Cliquer ici pour vous authentifier"
+
+#: includes/kpi-settings.php:103
+msgid "Your Access Code:"
+msgstr "Code d'accès:"
+
+#: includes/kpi-settings.php:126
+msgid "Select profile for dashboard data."
+msgstr "Sélectionner le profil pour les données du tableau de bord."
+
+#: includes/kpi-settings.php:132
+msgid "Dashboard :"
+msgstr "Tableau de bord :"
+
+#: views/basket-stats.php:15
+msgid "Average basket"
+msgstr "Panier moyen"
+
+#: views/basket-stats.php:19 views/other-stats.php:41 views/other-stats.php:50
+#, php-format
+msgid "%1$s%2$s"
+msgstr "%2$s%1$s"
+
+#: views/conversion-stats.php:17
+msgid "Conversion Rate"
+msgstr "Taux de Conversion"
+
+#: views/kpi-chart.php:40
+msgid "Income"
+msgstr "Chiffre d'Affaire"
+
+#: views/kpi-chart.php:139
+msgid "Month"
+msgstr "Mois"
+
+#: views/kpi-chart.php:155
+msgid "Income and Objective "
+msgstr "C.A. et Objectif"
+
+#: views/kpi-chart.php:169
+msgid "Visitors "
+msgstr "Visiteurs"
+
+#: views/kpi-chart.php:177
+msgid "Conversion Rate "
+msgstr "Taux de Conversion "
+
+#: views/kpi-chart.php:195
+msgid "Average Basket "
+msgstr "Panier Moyen "
+
+#: views/kpi-chart.php:214
+msgid "Fidelity Rate "
+msgstr "Taux de Fidélité "
+
+#: views/other-stats.php:31
+msgid "Other Informations"
+msgstr "Autres Informations"
+
+#: views/other-stats.php:35
+msgid "Sales"
+msgstr "Ventes"
+
+#: views/other-stats.php:38
+msgid "Net Income"
+msgstr "C.A. Net"
+
+#: views/other-stats.php:47
+msgid "Adwords Expenses"
+msgstr "Dépenses Adwords"
+
+#: views/other-stats.php:56
+msgid "Adwords Visits"
+msgstr "Visites Adwords"
+
+#: views/tips.php:66
+#, php-format
+msgid ""
+"You had <b>%1$s</b> unique visitor in the period, for an average net income "
+"(excluding taxes and shipping costs) of <b>%3$s%2$s</b> per visitor.<br />"
+msgstr ""
+"Vous avez eu <b>%1$s</b> visiteurs uniques sur la période, soit une moyenne "
+"de chiffre d'affaires net (hors taxe/hors frais de port) de <b>%2$s%3$s</b> "
+"par visiteur.<br />"
+
+#: views/tips.php:72
+msgid ""
+"You have not set any objective for this month. Please <a href='?page=kpi-"
+"objectives'>set an objective</a> to have corresponding tips."
+msgstr ""
+"Vous n'avez pas fixé d'objectif pour ce mois-ci. Merci de <a href='/wp-admin/"
+"admin.php?page=kpi-objectives'>fixer un objectif</a> pour avoir les conseils "
+"correspondant."
+
+#: views/tips.php:75
+#, php-format
+msgid "<br/>Your net income objective for the period is <b>%2$s%1$s</b>.<br />"
+msgstr ""
+"<br/>Votre objectif de C.A. Net pour la période est de <b>%1$s%2$s</b>.<br />"
+
+#: views/tips.php:87 views/tips.php:121
+msgid "<br/>You have not reached your objective yet. "
+msgstr "<br/>Vous n'avez pas encore atteint votre objectif. "
+
+#: views/tips.php:89
+#, php-format
+msgid "You are missing <b>%2$s%1$s</b> to reach it.<br />"
+msgstr "Il vous manque pour cela la somme de <b>%1$s%2$s</b>."
+
+#: views/tips.php:95
+#, php-format
+msgid ""
+"<br/>To reach your objective, you would need to achieve a net income of <b>"
+"%2$s%1$s</b> everyday until the end of the month.<br />"
+msgstr ""
+"<br/>Pour atteindre votre objectif, il faudrait réaliser un Chiffre "
+"d'Affaires Net de <b>%1$s%2$s</b> par jour jusqu'à la fin du mois.<br />"
+
+#: views/tips.php:106
+#, php-format
+msgid ""
+"<br/>This might be difficult since, until now, this month, your net income "
+"is <b>%2$s%1$s</b>.<br />"
+msgstr ""
+"<br/>Cela risque d'être difficile puisque, jusqu'à présent, ce mois-ci, "
+"votre C.A. Net quotidien est de <b>%1$s%2$s</b><br />"
+
+#: views/tips.php:112
+#, php-format
+msgid ""
+"<br/>This objective is achievable: until now, this month, your daily net "
+"income is <b>%2$s%1$s</b>.<br />"
+msgstr ""
+"<br/>C'est un objectif réalisable : jusqu'à présent, ce mois-ci, votre C.A. "
+"net quotidien est de <b>%1$s%2$s</b><br />"
+
+#: views/tips.php:123
+#, php-format
+msgid "You are missing <b>%2$s%1$s</b> to reach it."
+msgstr "Il vous manque pour cela la somme de <b>%1$s%2$s</b>."
+
+#: views/tips.php:128
+msgid ""
+"<br/>You can achieve your monthly objective! Pour your heart in it. Be "
+"active on social networks, present your new products on there, advertise... "
+"Act to end the month in a blaze of glory!"
+msgstr ""
+"<br/>Vous pouvez arriver à atteindre vos objectifs mensuels ! Allez-y à "
+"fond. Soyez actif sur les réseaux sociaux, présentez-y vos nouveautés, "
+"faites de la pub... Agissez pour finir le mois en beauté !"
+
+#: views/tips.php:133
+msgid "<br/>Unfortunately, you have not reached your objective."
+msgstr "<br/>Malheureusement, vous n'avez pas atteint votre objectif."
+
+#: views/tips.php:135
+#, php-format
+msgid "<br/>Your average daily net income was<b> %2$s%1$s.</b><br />"
+msgstr "<br/>Votre C.A. Net quotidien moyen était de <b> %1$s%2$s.</b><br />"
+
+#: views/tips.php:141
+#, php-format
+msgid ""
+"<br/>Your objective means an average daily net income of <b>%2$s%1$s.</"
+"b><br />"
+msgstr ""
+"<br/>Votre objectif signifie un C.A. Net quotidien moyen de <b>%1$s%2$s.</"
+"b><br />"
+
+#: views/tips.php:147
+msgid "<br/><strong>Bravo!</strong> You have reached your objective!<br/>"
+msgstr "<br/><strong>Bravo !</strong> Vous avez atteint votre objectif !<br/>"
+
+#: views/tips.php:158
+#, php-format
+msgid ""
+"<br/>With an invested Adwords budget of <b> %2$s%1$s</b>, you have drawn "
+"in<b> %3$s</b> visitors, meaning <b>%4$s&#37;</b> of your visitors who came "
+"from your Google CPC campaigns, and a cost for each of those visitors of <b>"
+"%2$s%5$s.</b> (<b>%2$s%6$s</b> if averaged to all visitors)<br />"
+msgstr ""
+"<br/>Avec votre budget Adwords investi de <b> %1$s%2$s</b>, vous avez attiré "
+"<b> %3$s</b> visiteurs, soit <b>%4$s&#37;</b> de vos visiteurs qui sont "
+"venus par vos campagnes CPC Google, et un coût pour chacun de ces visiteurs "
+"de <b>%5$s%2$s.</b> (<b>%6$s%2$s</b> si arrondi à tous les visiteurs)<br />"
+
+#: views/tips.php:168
+#, php-format
+msgid ""
+"<br/>This represents a ratio between your Google Adwords investment and your "
+"net income of <b>%s</b>&#37; : <a href='https://itunes.apple.com/us/app/pro-"
+"calcul-edition-complete/id432321030?mt=8'>Check your margins</a> to make "
+"sure of this investment's profitability.<br />"
+msgstr ""
+"<br/>Cela représente un ratio entre votre investissement Google Adwords et "
+"votre chiffre d'affaires net de <b>%s</b>&#37; : <a href='https://itunes."
+"apple.com/us/app/pro-calcul-edition-complete/id432321030?mt=8'>Vérifiez bien "
+"vos marges</a> pour vous assurer de la bonne rentabilité de cet "
+"investissement.<br />"
+
+#: views/tips.php:173
+#, php-format
+msgid ""
+"<br/>By rounding average basket and conversion rate on the totality of "
+"visitors, we can estimate the net income part coming from the Adwords visits "
+"at <b>%2$s%1$s.</b><br/>"
+msgstr ""
+"<br/>En lissant panier moyen et taux de conversion sur la totalité des "
+"visiteurs, on peut estimer la part de chiffres d'affaires net découlant des "
+"visites Adwords à <b>%1$s%2$s .</b><br/>"
+
+#: views/tips.php:188
+#, php-format
+msgid ""
+"<div class=\"conseil-title\">Hypothesis %s to increase the net income: "
+"Increase the Average Basket</div>"
+msgstr ""
+"<div class=\"conseil-title\">Hypothèse %s pour augmenter le C.A. Net : "
+"Augmenter le Panier Moyen</div>"
+
+#: views/tips.php:194
+#, php-format
+msgid ""
+"The average basket excluding tax and shipping on your shop is <b>%2$s%1$s</"
+"b>. Study it, as well as your prices. Isn't there points to improve?\n"
+"                             Aren't your prices lower than the market's? Try "
+"increasing lightly the price of some of your products and see the effect it "
+"has on sales.<br />\n"
+"                             <br/>Do you use cross-selling techniques? Do "
+"you encourage the purchase of complementary products when in the cart?<br /"
+">\n"
+"                             <br/>Do you use upmarket strategies? Do you "
+"propose, while choosing the product, a product of superior quality?<br />\n"
+"                             <br/>Do you propose extras? Such as a warranty? "
+"An insurance? An additional license? A gift-wrapping?<br />\n"
+"                             <br/>Do you propose decreasing prices per "
+"quantity? Or, for exemple 3 for the price 2?<br />\n"
+"                             <br/>Do you offer something after a certain "
+"purchase amount? Such as free shipping cost after <b>%2$s%3$s</b> as a mean "
+"to increase your average basket?<br />\n"
+"                             Or even offer a gift, Ou même offrir un cadeau, "
+"per purchase segments, like some companies on the internet do?<br />\n"
+"                             <br/>Can you propose grouped purchases for your "
+"products? eg: The shirt + the jacket + the trousers at a preferential price?"
+"<br/><br/>"
+msgstr ""
+"Le panier moyen HT / HP sur votre boutique est de <b>%1$s%2$s</b>. Etudiez-"
+"le, ainsi que vos tarifs. N'y a-t-il pas des points à améliorer ?\n"
+"                             Vos tarifs ne sont-ils pas plus bas que ceux du "
+"marché ? Testez d'augmenter légèrement le prix de certains produits et voyez "
+"l'effet sur les ventes.<br />\n"
+"                             <br/>Utilisez-vous des techniques de ventes "
+"croisées ? Incitez-vous à l'achat de produits complémentaires au moment du "
+"panier ?<br />\n"
+"                             <br/>Utilisez-vous des stratégies de montée en "
+"gamme ? Proposez-vous, lors du choix du produit, un produit de qualité "
+"supérieure ?<br />\n"
+"                             <br/>Proposez-vous des options ? Comme une "
+"garantie ? Une assurance ? Une licence supplémentaire ? Un emballage cadeau ?"
+"<br />\n"
+"                             <br/>Proposez-vous des prix dégressifs par "
+"quantité ? Ou, par exemple, 3 pour le prix de 2 ?<br />\n"
+"                             <br/>Offrez-vous quelque chose à partir d'un "
+"montant d'achat ? Comme les frais de port offerts à partir de <b>%3$s%2$s</"
+"b> pour ainsi tirer votre panier moyen vers le haut ?<br />\n"
+"                             Ou même offrir un cadeau, par tranche d'achat, "
+"comme le font certaines enseignes sur le net ?<br />\n"
+"                             <br/>Pouvez-vous proposer des achats groupé "
+"pour vos produits ? Ex : La chemise + la veste + le pantalon à un prix "
+"préférentiel ?<br/><br/>"
+
+#: views/tips.php:210
+#, php-format
+msgid ""
+"Increasing the basket by 10 &#37;, or <b>%2$s%1$s</b> would have allowed to "
+"change your net income from <b>%2$s%4$s</b> to <b>%2$s%3$s</b>.<br/>"
+msgstr ""
+"Augmenter le panier de 10 &#37;, soit <b>%1$s%2$s</b> passerait votre C.A. "
+"Net à <b>%3$s%2$s</b> au lieu de <b>%4$s%2$s.</b><br/>"
+
+#: views/tips.php:230
+#, php-format
+msgid ""
+"<div class=\"conseil-title\">Hypothesis %s to increase the net income: "
+"Increase the Conversion Rate</div>"
+msgstr ""
+"<div class=\"conseil-title\">Hypothèse %s pour augmenter les revenus net : "
+"Améliorer le taux de conversion</div>"
+
+#: views/tips.php:235
+msgid ""
+"Seriously test your conversion funnel:<br/><br/>Home Page &#8594; Category "
+"&#8594; Product &#8594; Cart &#8594; Order Confirmation &#8594; Payment "
+"&#8594; Thanks.<br />"
+msgstr ""
+"Testez sérieusement votre tunnel de conversion :<br/><br/>Accueil &#8594; "
+"Catégorie &#8594; Produit &#8594; Panier &#8594; Confirmation de commande "
+"&#8594; Paiement &#8594; Remerciements.<br />"
+
+#: views/tips.php:236
+msgid ""
+"<br/>Ask some friends, acquaintance and/or test customers to visit, in front "
+"of you, your shop with the intent of buying, until the finalization of the "
+"order (that you can cancel). Quietly place yourself behind them and, "
+"<strong>without ever intervening</strong>, take notes of the hesitations, "
+"misunderstandings, doubts and mistakes to then correct them on your shop."
+"<br />"
+msgstr ""
+"<br/>Demandez à des amis, des connaissances, des clients-test de visiter, "
+"devant vous, votre boutique dans une intention d'achat, jusqu'à finalisation "
+"de la commande (que vous pourrez annuler). Placez-vous discrètement derrière "
+"eux et, <strong>sans jamais intervenir</strong>, notez les hésitations, les "
+"incompréhensions, les doutes et erreurs pour les corriger ensuite sur votre "
+"boutique.<br />"
+
+#: views/tips.php:237
+msgid ""
+"<br/>Are your CPC marketing campaigns, partnerships and affiliations "
+"accurate? Do the prospects easily find, in a clear way, the answer to the "
+"promise made by your campaigns? Do the prices correspond? Are your arguments "
+"accurate enough as to not disappoint and lose a prospect who might have "
+"become a customer?<br />"
+msgstr ""
+"<br/>Vos campagnes de communication CPC, partenariats, affiliations sont-"
+"elles précises ? Les prospects trouvent-ils réellement, de façon claire, la "
+"réponse à la promesse faite dans vos campagnes ? Les prix correspondent-"
+"ils ? Vos arguments sont-ils assez précis pour ne pas décevoir et perdre un "
+"prospect qui aurait pu devenir un client ?<br />"
+
+#: views/tips.php:238
+msgid ""
+"<br/>According to <a href='https://blog.kissmetrics.com/the-one-little-"
+"box/'>some studies</a>, the presence of the field for discount codes would "
+"cause a loss in sales. If you use it, study other solutions, such as <a "
+"href='https://github.com/cedaro/woocommerce-coupon-links'>replacing it with "
+"a clickable link</a>.<br />"
+msgstr ""
+"<br/>Selon <a href='https://blog.kissmetrics.com/the-one-little-"
+"box/'>certaines études</a>, la présence d'un champ pour le code de réduction "
+"ferait perdre des ventes. Si vous l'utilisez, étudiez d'autres solutions, "
+"comme <a href='https://github.com/cedaro/woocommerce-coupon-links'>le "
+"remplacer par un lien cliquable</a>.<br />"
+
+#: views/tips.php:239
+msgid ""
+"<br/>Beside that, if you use coupons, these discount codes have to be easily "
+"findable. Better: discount codes directly announced on your eshop to avoid "
+"customers leaving your website and never coming back because they couldn't "
+"find any code on the web!<br />"
+msgstr ""
+"<br/>A côté de cela, si vous utilisez des codes de réduction, ces codes "
+"doivent être faciles à trouver. Mieux : des codes de réductions directement "
+"annoncés sur votre boutique en ligne pour éviter au client de quitter votre "
+"site web et de ne jamais revenir parce qu'il n'a pas réussi à trouver un "
+"code sur le web !<br/>"
+
+#: views/tips.php:241
+#, php-format
+msgid ""
+"<br/>Increasing you conversion rate by 0.5 &#37; would have allowed to "
+"change your net income to <b>%2$s%1$s</b>.<br />"
+msgstr ""
+"<br/>Augmenter votre taux de conversion de 0.5 &#37; permettrait de passer "
+"votre C.A. net à <b>%1$s%2$s</b>.<br />"
+
+#: views/tips.php:255 views/tips.php:277
+#, php-format
+msgid ""
+"<div class=\"conseil-title\">Hypothesis %s to increase the net income: "
+"Increase the Number of Visitors</div>"
+msgstr ""
+"<div class=\"conseil-title\">Hypothèse %s pour augmenter le C.A. Net : "
+"Augmenter le Nombre de Visiteurs</div>"
+
+#: views/tips.php:260
+msgid ""
+"Awesome: you have reached your fixed objectives! But perhaps you could go "
+"even higher?<br /> Do you better and control your onpage SEO? You can use "
+"plugins such as YOAST SEO or others to help optimizing your pages. Train "
+"yourself, exchange with colleagues, better your online presence...<br />"
+msgstr ""
+"C'est génial : vous avez atteint les objectifs fixés ! Mais peut-être "
+"pourriez-vous cibler plus haut ?<br /> Améliorez-vous et contrôlez-vous "
+"votre optimisation SEO onpage ? Vous pouvez utiliser des plugins tels que "
+"YOAST SEO ou autres pour vous aider à optimiser vos pages. Formez-vous, "
+"échangez avec des collègues, améliorez votre présence en ligne...<br />"
+
+#: views/tips.php:261 views/tips.php:283
+msgid ""
+"<br/>Be active on social networks, put up a real strategy, create a "
+"community. Even be proactive, help and give advice to this community's "
+"members.<br />"
+msgstr ""
+"<br/>Soyez actifs sur les réseaux sociaux, mettez en place une réelle "
+"stratégie, créez votre communauté. Soyez même pro-actif, aidez et conseillez "
+"les membres de cette communauté.<br />"
+
+#: views/tips.php:262 views/tips.php:284
+msgid ""
+"<br/>Propose partnerships with blogs, organize contests, be on forums, in "
+"blogs' comments, in Facebook groups... If you do B-to-B, be active on "
+"networks such as Linkedin. Mark your presence on the web.<br />"
+msgstr ""
+"<br/>Proposez des partenariats à des blogs, organisez des jeux-concours, "
+"soyez présent sur des forums, dans les commentaires de blogs, dans des "
+"groupes Facebook... Si vous faites du B-to-B, soyez actifs sur les réseaux "
+"comme Linkedin. Marquez votre présence sur le web.<br />"
+
+#: views/tips.php:282
+msgid ""
+"Do you improve and control your onpage SEO? You can use plugins such as "
+"YOAST SEO or others to help optimizing your pages. Train yourself, exchange "
+"with colleagues, better your online presence...<br />"
+msgstr ""
+"Améliorez-vous et contrôlez-vous votre optimisation SEO onpage ? Vous pouvez "
+"utiliser des plugins tels que YOAST SEO ou autres pour vous aider à "
+"optimiser vos pages. Formez-vous, échangez avec des collègues, améliorez "
+"votre présence en ligne...<br />"
+
+#: views/tips.php:286
+#, php-format
+msgid ""
+"<br/>You currently have <b>%1$s</b> visitors. If you have managed to "
+"increase your average basket by 10&#37; and your conversion rate by "
+"0,5&#37;, you would need to have <b>%2$s</b> or <b>%3$s&#37;</b> of the "
+"current number to reach your objective.<br />"
+msgstr ""
+"<br/>Vous avez actuellement <b>%1$s</b> visiteurs. Si vous êtes parvenus à "
+"augmenter votre panier moyen de 10&#37; et votre taux de conversion de "
+"0,5&#37;, il faudrait que vous en ayez <b>%2$s</b> soit <b>%3$s&#37;</b> du "
+"nombre actuel pour atteindre votre objectif.<br />"
+
+#: views/tips.php:293
+#, php-format
+msgid ""
+"<br/>With no change on average basket and conversion rate, you need to reach "
+"<b>%1$s</b> visitors to realize your objective.<br />"
+msgstr ""
+"<br/>Sans aucun changement sur le taux de conversion et le panier moyen, "
+"vous devrez atteindre <b>%1$s</b> visiteurs pour réaliser votre objectif."
+"<br />"
+
+#: views/tips.php:301
+#, php-format
+msgid ""
+"<br/>Please note that a linear evolution of your current number of visitors "
+"- for an average of <b>%1$s</b> visitors per day - would lead to a number of "
+"visitors of <b>%2$s</b> at the end of the month.<br />"
+msgstr ""
+"<br/>Notez qu'une évolution linéaire de votre nombre de visiteurs actuel - "
+"pour une moyenne de <b>%1$s</b> visiteurs par jour - mènerait à <b>%2$s</b> "
+"visiteurs à la fin du mois.<br />"
+
+#: views/tips.php:321
+#, php-format
+msgid ""
+"<div class=\"conseil-title\">Hypothesis %s to increase the net income: "
+"Increase the Adwords budget</div>"
+msgstr ""
+"<div class=\"conseil-title\">Hypothèse %s pour augmenter le C.A. Net : "
+"Augmenter le budget Adwords</div>"
+
+#: views/tips.php:326
+msgid ""
+"The cost per Adwords visitor being lower than the gain per visitor, by "
+"carefully increasing the Google Adwords budget, you could increase your "
+"income.<br /><br /><u>Be careful:</u> There are tresholds where the "
+"campaign's effectiveness decreases, progress by segments by keeping watch of "
+"the effects on your budget and your income. Like stock market, CPC campaigns "
+"can be tricky and require a constant and strict surveillance.<br/>"
+msgstr ""
+"Le coût par visiteur Adwords étant plus bas que le gain par visiteur, en "
+"augmentant prudemment le budget Google Adwords, vous pourriez augmenter "
+"votre chiffre d'affaires.<br /><br /><u>Attention :</u> Il y a des seuils où "
+"l'efficacité de la campagne s'amenuise, évoluez par tranches en surveillant "
+"les incidences sur votre budget et sur votre revenu. Comme la bourse, les "
+"campagnes CPC peuvent être piégeuses et nécessitent une surveillance fine."
+"<br/>"
+
+#: views/tips.php:328
+#, php-format
+msgid ""
+"<br/>In absolute, proportionally to the current results (but the "
+"proportionality may not verify itself, this is why we advise you proceed by "
+"tresholds), dedicating an additional Adwords budget of <b>%1$s%2$s</b> could "
+"lead to your objectives. Of course, your objectives could then need to be "
+"redetermined to take CPC marketing costs into account.<br/>"
+msgstr ""
+"<br/>Dans l'absolu, proportionnellement aux résultats actuels (mais la "
+"proportionnalité peut ne pas se vérifier c'est pour cela que l'on vous "
+"conseille d'évoluer par seuils), consacrer un budget Adwords supplémentaire "
+"de <b>%1$s%2$s</b> pourrait mener à vos objectifs. Evidemment, vos objectifs "
+"seraient alors certainement à revoir pour tenir compte des coûts en "
+"communication CPC.<br/>"
+
+#: views/tips.php:333
+#, php-format
+msgid ""
+"<br/>For the Adwords investment made to obtain these additional CPC visits "
+"to yield enough to reach your objectives AND amortize this additional "
+"Adwords investment, you would need this additional budget to be of <b>%2$s"
+"%1$s</b>! Provided that, once again, the campaign's effectiveness does not "
+"diminish with the increase of the budget.<br />"
+msgstr ""
+"<br/>Pour que l'investissement Adwords fait pour obtenir ces visites CPC "
+"supplémentaires rapporte assez pour atteindre vos objectifs ET amortir cet "
+"investissement Adwords supplémentaire, il faudrait que ce budget "
+"supplémentaire soit de <b>%1$s%2$s</b> ! A condition, encore une fois, que "
+"la campagne ne diminue pas en efficacité avec l'augmentation du budget.<br />"
+
+#: views/tips.php:339
+#, php-format
+msgid ""
+"<div class=\"conseil-title\">Hypothesis %s : Correct your marketing "
+"strategy</div>"
+msgstr ""
+"<div class=\"conseil-title\">Hypothèse %s : Corriger votre stratégie de "
+"communication</div>"
+
+#: views/tips.php:345
+#, php-format
+msgid ""
+"<span style=\"color:red;\"><u>WARNING:</u> Your marketing expenses per "
+"visitor are HIGHER than your incomes! Each visitor acquired costs you <b>%2$s"
+"%1$s</b> and only brings you <b>%2$s%3$s</b>!! Unless this is a voluntary "
+"strategy (brand awareness building , market occupancy, high cost per "
+"customer), quickly correct your strategy.</span>"
+msgstr ""
+"<span style=\"color:red;\"><u>ATTENTION :</u> Vos dépenses publicitaires par "
+"visiteur sont SUPERIEURES à vos recettes ! Chaque visiteur obtenu vous coûte "
+"<b>%1$s%2$s</b> et ne vous rapporte que <b>%3$s%2$s</b> !! A moins que ce ne "
+"soit une stratégie volontaire (renforcement de votre notoriété, occupation "
+"du secteur, coût par client élevé), corrigez rapidement votre stratégie.</"
+"span>"
+
+#: views/visitors-stats.php:9
+msgid "Unique Visitors"
+msgstr "Visiteurs Uniques"
+
+#: woocommerce-kpi-dashboard.php:174
+msgid ""
+"You must be <a href=\"?page=kpi-settings\">connected to Google Analytics</a> "
+"to choose the profile of your ecommerce."
+msgstr ""
+"Vous devez être <a href=\"?page=kpi-settings\">connecté à Google Analytics</"
+"a> pour choisir le profil de votre boutique en ligne."
+
+#~ msgid ""
+#~ "Don't miss the full <a href='http://logg-out.com/en/product/woo-kpi-"
+#~ "dashboard-pro/'>pro version</a> of Woocommerce KPI Dashboard!"
+#~ msgstr ""
+#~ "Don't miss the full <a href='http://logg-out.com/en/product/woo-kpi-"
+#~ "dashboard-pro/'>pro version</a> of Woocommerce KPI Dashboard!"
+
+#~ msgid "Woo-KPI Dashboard"
+#~ msgstr "Woo-KPI Dashboard"
+
+#~ msgid ""
+#~ "<br /><span style=\"font-size:0.8;font-style:italic;\">by <a href="
+#~ "\"http://logg-out.com/en\">Logg</a></span>"
+#~ msgstr ""
+#~ "<br /><span style=\"font-size:0.8;font-style:italic;\">par <a href="
+#~ "\"http://logg-out.com\">Logg</a></span>"
+
+#~ msgid ""
+#~ "Don't miss the full <a href='http://logg-out.com/en/'>pro version</a> of "
+#~ "Woo-KPI Dashboard!"
+#~ msgstr ""
+#~ "Ne ratez pas la <a href=\"http://logg-out.com/project/woocommerce-kpi-"
+#~ "dashboard/\">Version Pro</a> de Woo-KPI Dashboard !"
+
+#~ msgid ""
+#~ "Woo-KPI Dashboard will even display tips to increase your company's "
+#~ "incomes, depending on your own KPI !<br /><br />  <a style='font-weight:"
+#~ "bolder;' href='http://logg-out.com/en/'>Acquire Pro Version</a>"
+#~ msgstr ""
+#~ "Woo-KPI Dashboard vous affichera même des conseils pour augmenter les "
+#~ "revenus de votre entreprise, dépendant de vos propres KPI !<br /><br />  "
+#~ "<a style='font-weight:bolder;' href='http://logg-out.com/project/"
+#~ "woocommerce-kpi-dashboard/'>Obtenir la Version Pro</a>."
+
+#~ msgid ""
+#~ "The <a href=\"?page=kpi-objectives\">license key</a> is invalid. <a href="
+#~ "\"http://logg-out.com/en/contact-us/\" >Contact us</a> if you think it's "
+#~ "an error or <a href=\"http://logg-out.com/en/product/woocommerce-kpi-"
+#~ "dashboard-pro/\">acquire a license</a>."
+#~ msgstr ""
+#~ "La <a href=\"?page=kpi-objectives\">clé de licence</a> est invalide. <a "
+#~ "href=\"http://logg-out.com/contactez-nous/\" >Contactez-nous</a> si vous "
+#~ "pensez que c'est une erreur ou <a href=\"http://logg-out.com/project/"
+#~ "woocommerce-kpi-dashboard/\">acquérez une licence</a>."
+
+#~ msgid ""
+#~ "Please <a href=\"http://logg-out.com/en/product/woocommerce-kpi-dashboard-"
+#~ "pro/\">acquire a license</a> to unlock PRO features."
+#~ msgstr ""
+#~ "Merci <a href=\"http://logg-out.com/project/woocommerce-kpi-dashboard/"
+#~ "\">d'acquérir une licence</a> pour débloquer les fonctionnalités PRO."
+
+#~ msgid ""
+#~ "Don't miss the full <a href='http://logg-out.com/en/product/woocommerce-"
+#~ "kpi-dashboard-pro/'>pro version</a> of Woocommerce KPI Dashboard!"
+#~ msgstr ""
+#~ "Ne passez pas à côté de la <a href='http://logg-out.com/project/"
+#~ "woocommerce-kpi-dashboard/'>version pro</a> de Woocommerce KPI Dashboard !"
+
+#~ msgid ""
+#~ "Woocommerce KPI Dashboard will even display tips to increase your "
+#~ "company's incomes, depending on your own KPI !<br /><br />  <a "
+#~ "style='font-weight:bolder;' href='http://logg-out.com/en/product/"
+#~ "woocommerce-kpi-dashboard-pro/'>Acquire Pro Version</a>"
+#~ msgstr ""
+#~ "Woocommerce KPI Dashboard vous affichera même des conseils pour augmenter "
+#~ "les revenus de votre entreprise, dépendant de vos propres KPI !<br /><br /"
+#~ ">  <a style='font-weight:bolder;' href='http://logg-out.com/project/"
+#~ "woocommerce-kpi-dashboard/'>Acquérir la Version Pro</a>"
+
+#~ msgid ""
+#~ "The maximum number of use for this license key has been reached. "
+#~ "Deactivate other website using it, <a href=\"http://logg-out.com/en/"
+#~ "contact-us/\" >contact us</a> or <a href=\"http://logg-out.com/en/product/"
+#~ "woocommerce-kpi-dashboard-pro/\">acquire a new license</a> for this "
+#~ "website."
+#~ msgstr ""
+#~ "Le nombre maximum d'utilisations pour cette clé de licence a été "
+#~ "atteint.. Désactivez-le sur les autres sites l'utilisant; <a href="
+#~ "\"http://logg-out.com/contactez-nous/\" >contactez-nous</a> ou <a href="
+#~ "\"http://logg-out.com/project/woocommerce-kpi-dashboard/\">acquérez une "
+#~ "nouvelle licence</a> pour ce site web."
+
+#~ msgid ""
+#~ "This license key is invalid. <a href=\"http://logg-out.com/en/contact-us/"
+#~ "\" >Contact us</a> if it's an error or <a href=\"http://logg-out.com/en/"
+#~ "product/woocommerce-kpi-dashboard-pro/\">acquire a license</a>."
+#~ msgstr ""
+#~ "La clé de licence est invalide. <a href=\"http://logg-out.com/contactez-"
+#~ "nous/\" >Contactez-nous</a> si vous pensez que c'est une erreur ou <a "
+#~ "href=\"http://logg-out.com/project/woocommerce-kpi-dashboard/\">acquérez "
+#~ "une licence</a>."
+
+#~ msgid ""
+#~ "This license key is invalid. <a href=\"http://logg-out.com/en/contact-us/"
+#~ "\" >Contact us</a> if you think it's an error or <a href=\"http://logg-"
+#~ "out.com/en/product/woocommerce-kpi-dashboard-pro/\">acquire a license</a>."
+#~ msgstr ""
+#~ "La clé de licence est invalide. <a href=\"http://logg-out.com/contactez-"
+#~ "nous/\" >Contactez-nous</a> si vous pensez que c'est une erreur <a href="
+#~ "\"http://logg-out.com/project/woocommerce-kpi-dashboard/\">acquérez une "
+#~ "licence</a>."
+
+#~ msgid ""
+#~ "The license key is invalid. <a href=\"http://logg-out.com/en/contact-us/"
+#~ "\" >Contact us</a> if you think it's an error or <a href=\"http://logg-"
+#~ "out.com/en/product/woocommerce-kpi-dashboard-pro/\">acquire a license</a>."
+#~ msgstr ""
+#~ "La clé de licence est invalide. <a href=\"http://logg-out.com/contactez-"
+#~ "nous/\" >Contactez-nous</a> si vous pensez que c'est une erreur ou <a "
+#~ "href=\"http://logg-out.com/project/woocommerce-kpi-dashboard/\">acquérez "
+#~ "une licence</a>."
+
+#~ msgid ""
+#~ "<div class=\"conseil-titleHypothesis %s to increase the net income: "
+#~ "Increase the Conversion Rate</div>"
+#~ msgstr ""
+#~ "<div class=\"conseil-title\">Hypothèse %s pour augmenter le C.A. Net : "
+#~ "Augmenter le Taux de conversion</div>"
+
+#~ msgid ""
+#~ "<br/>With no improve on average basket and conversion rate, you need to "
+#~ "reach <b>%1$s</b> visitors to realize your objective.<br />"
+#~ msgstr ""
+#~ "<br/>Sans amélioration du panier moyen et du taux de conversion, il "
+#~ "faudrait atteindre <b>%1$s</b> visiteurs pour réaliser votre objectif."
+#~ "<br />"
+
+#~ msgid "License Key (mandatory to validate Pro Version)"
+#~ msgstr "Clé de licence (nécessaire pour les fonctions PRO)"
+
+#~ msgid ""
+#~ "There's an error to receive license validation. Please try again later or "
+#~ "<a href=\"http://logg-out.com/contactez-moi/\" >contact us</a>."
+#~ msgstr ""
+#~ "Il y a une erreur pour recevoir la validation de la licence. Merci de "
+#~ "réessayer plus tard ou <a href=\"http://logg-out.com/contactez-moi/\" >de "
+#~ "nous contacter</a>."
+
+#~ msgid ""
+#~ "The maximum number of use for this license key has been reached. "
+#~ "Deactivate other website using it, <a href=\"http://logg-out.com/"
+#~ "contactez-moi/\" >contact us</a> or <a href=\"http://logg-out.com/produit/"
+#~ "woocommerce-kpi-dashboard-pro/\">acquire a new license</a> for this "
+#~ "website."
+#~ msgstr ""
+#~ "Le nombre maximum d'utilisation pour cette clé de licence a été atteint. "
+#~ "Désactivez d'autres sites l'utilisant, <a href=\"http://logg-out.com/"
+#~ "contactez-moi/\" >contactez-nous</a> ou <a href=\"http://logg-out.com/"
+#~ "produit/woocommerce-kpi-dashboard-pro/\">obtenez une nouvelle licence</a> "
+#~ "pour ce site."
+
+#~ msgid ""
+#~ "This license key is invalid. <a href=\"http://logg-out.com/contactez-moi/"
+#~ "\" >Contact us</a> if it's an error or <a href=\"http://logg-out.com/"
+#~ "produit/woocommerce-kpi-dashboard-pro/\">acquire a license</a>."
+#~ msgstr ""
+#~ "Cette clé de licence est invalide. <a href=\"http://logg-out.com/"
+#~ "contactez-moi/\" >Contactez-nous</a> si c'est une erreur ou <a href="
+#~ "\"http://logg-out.com/produit/woocommerce-kpi-dashboard-pro/\">obtenez "
+#~ "une licence</a>."
+
+#~ msgid ""
+#~ "The license key recorded is invalid. <a href=\"http://logg-out.com/"
+#~ "contactez-moi/\" >Contact us</a> if it's an error or <a href=\"http://"
+#~ "logg-out.com/produit/woocommerce-kpi-dashboard-pro/\">acquire a license</"
+#~ "a>."
+#~ msgstr ""
+#~ "Cette clé de licence enregistrée est invalide. <a href=\"http://logg-out."
+#~ "com/contactez-moi/\" >Contactez-nous</a> si c'est une erreur ou <a href="
+#~ "\"http://logg-out.com/produit/woocommerce-kpi-dashboard-pro/\">obtenez "
+#~ "une licence</a>."
+
+#~ msgid ""
+#~ "Please <a href=\"http://logg-out.com/produit/woocommerce-kpi-dashboard-"
+#~ "pro/\">acquire a license</a> to unlock PRO features."
+#~ msgstr ""
+#~ "Merci <a href=\"http://logg-out.com/produit/woocommerce-kpi-dashboard-pro/"
+#~ "\">d'obtenir une licence</a> pour débloquer les fonctionnalités PRO."
+
+#~ msgid "License Key (mandatory to validate Objectives)"
+#~ msgstr "Clé de Licence (obligatoire pour valider les Objectifs)"
+
+#~ msgid "CPC COST"
+#~ msgstr "COÛT CPC"
+
+#~ msgid "Adwords Cost"
+#~ msgstr "Coût Adwords"
